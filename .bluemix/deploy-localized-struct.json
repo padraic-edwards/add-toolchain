@@ -1,0 +1,7 @@
+ {
+  "title": "$deploy.title",
+  "longDescription": "$deploy.longDescription",
+  "form": [{
+    "title": "$deploy.form.description",
+  }]
+}
