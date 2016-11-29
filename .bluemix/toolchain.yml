@@ -30,8 +30,8 @@ build:
      env:
       REPO: "repo"
       CF_APP: ""
-      CF_SPACE_ID: "",
-      CF_ORGANIZATION_ID: "",
+      CF_SPACE_ID: ""
+      CF_ORGANIZATION_ID: ""
       CF_API_URL: ""
      execute: false
     services: ["repo"]
