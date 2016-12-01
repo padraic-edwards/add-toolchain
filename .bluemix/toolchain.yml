@@ -12,7 +12,7 @@ required:
 
 # Github repos
 repo:
-  service_id: github
+  service_id: github_integrated
   parameters:
     repo_name: "{{name}}"
     repo_url: ""
