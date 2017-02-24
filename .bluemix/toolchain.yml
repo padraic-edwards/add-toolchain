@@ -21,11 +21,6 @@ template:
   required:
     - build
     - repo
-  info:
-    git url: >-
-      [https://github.com/open-toolchain/add-toolchain](https://github.com/open-toolchain/add-toolchain)
-    git branch: >-
-      [dedicated](https://github.com/open-toolchain/add-toolchain/tree/dedicated)
 toolchain:
   name: 'add-toolchain-{{timestamp}}'
 services:
