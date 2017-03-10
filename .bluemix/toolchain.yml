@@ -40,8 +40,7 @@ services:
       ui-pipeline: true
       configuration:
         content:
-          $ref: pipeline.yml
-          $refType: text
+          $text: pipeline.yml
         env:
           REPO: repo
           CF_APP: ''
