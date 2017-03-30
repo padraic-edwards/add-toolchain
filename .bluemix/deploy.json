@@ -1,11 +1,14 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
-    "localized-struct": {
-        "$ref": "deploy-localized-struct.json"
+    "messages": {
+       "$i18n": "locales.yml"
     },
-    "title": "MicroServices Deploy Stage",
-    "description": "sample toolchain",
-    "longDescription": "The Delivery Pipeline automates continuous deployment.",
+    "title": {
+      "$ref": "#/messages/deploy.title"
+    },
+    "longDescription": {
+      "$ref": "#/messages/deploy.longDescription"
+    },
     "type": "object",
     "properties": {
         "pipeline_name": {
@@ -16,7 +19,9 @@
         {
             "type": "text",
             "readonly": true,
-            "title": "Description",
+            "title": {
+                "$ref": "#/messages/deploy.form.description"
+            },
             "key": "pipeline_name"
         }
     ]
