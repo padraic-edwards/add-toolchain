@@ -1,6 +1,6 @@
 ---
 template.name: "Cadena de herramientas de Continuous Delivery"
-template.description: "Esta cadena de herramientas incluye herramientas para desarrollar y desplegar su app. Dependiendo de su\naplicación, cuando se crea la cadena de herramientas, el repositorio Git estará vacío\no contendrá el código fuente de su aplicación. \nEsta cadena de herramientas utiliza herramientas que forman parte del servicio Continuous Delivery.Si\naún no hay una instancia de dicho servicio en la organización, cuando pulse\n**Crear**, se añadirá automáticamente sin coste alguno para usted. Para obtener más información \ny los términos, consulte el [catálogo de Bluemix](/catalog/services/continuous-delivery/).\nPara comenzar, pulse **Crear**."
+template.description: Esta cadena de herramientas incluye herramientas para desarrollar y desplegar su app. Dependiendo de su\naplicación, cuando se crea la cadena de herramientas, el repositorio Git estará vacío\no contendrá el código fuente de su aplicación. \nEsta cadena de herramientas utiliza herramientas que forman parte del servicio Continuous Delivery.Si\naún no hay una instancia de dicho servicio en la organización, cuando pulse\n**Crear**, se añadirá automáticamente sin coste alguno para usted. Para obtener más información \ny los términos, consulte el [catálogo de Bluemix](/catalog/services/continuous-delivery/).\nPara comenzar, pulse **Crear**.
 deploy.title: "MicroServices Deploy Stage"
 deploy.longDescription: "Delivery Pipeline automatiza el despliegue continuo."
 deploy.form.description: "Descripción"

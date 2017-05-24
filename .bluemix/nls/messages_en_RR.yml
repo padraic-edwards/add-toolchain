@@ -1,27 +1,26 @@
 ---
-template.name: "Continuous Delivery Toolchain~otc-ui500"
+template.name: "Continuous Delivery Toolchain~otc-ui521"
 template.description: |
   This toolchain includes tools to develop and deploy your app. Depending on your
   app, when you create the toolchain, the Git repository will either be empty
-  or will contain source code from your app.
-  
+  or will contain source code from your app.~otc-ui522
   This toolchain uses tools that are part of the Continuous Delivery service. If
   an instance of that service isn't already in your organization, when you click
   **Create**, it is automatically added at no cost to you. For more information
   and terms, see the [Bluemix catalog](/catalog/services/continuous-delivery/).
 
-  To get started, click **Create**.~otc-ui501
-deploy.title: "MicroServices Deploy Stage~otc-ui502"
-deploy.longDescription: "The Delivery Pipeline automates continuous deployment.~otc-ui503"
-deploy.form.description: "Description~otc-ui504"
-headerSVG.issueTracker: "ISSUE TRACKER~otc-ui505"
-headerSVG.gitHub1: "GitHub~otc-ui506"
-headerSVG.think: "THINK~otc-ui507"
-headerSVG.code: "CODE~otc-ui508"
-headerSVG.deliver: "DELIVER~otc-ui509"
-headerSVG.run: "RUN~otc-ui510"
-headerSVG.repository: "REPOSITORY~otc-ui511"
-headerSVG.gitHub2: "GitHub~otc-ui512"
-headerSVG.pipeline: "PIPELINE~otc-ui513"
-headerSVG.bluemix: "BLUEMIX~otc-ui514"
-headerSVG.webIde: "WEB IDE~otc-ui515"
+  To get started, click **Create**.
+deploy.title: "MicroServices Deploy Stage~otc-ui523"
+deploy.longDescription: "The Delivery Pipeline automates continuous deployment.~otc-ui524"
+deploy.form.description: "Description~otc-ui525"
+headerSVG.issueTracker: "ISSUE TRACKER~otc-ui526"
+headerSVG.gitHub1: "GitHub~otc-ui527"
+headerSVG.think: "THINK~otc-ui528"
+headerSVG.code: "CODE~otc-ui529"
+headerSVG.deliver: "DELIVER~otc-ui530"
+headerSVG.run: "RUN~otc-ui531"
+headerSVG.repository: "REPOSITORY~otc-ui532"
+headerSVG.gitHub2: "GitHub~otc-ui533"
+headerSVG.pipeline: "PIPELINE~otc-ui534"
+headerSVG.bluemix: "BLUEMIX~otc-ui535"
+headerSVG.webIde: "WEB IDE~otc-ui536"
