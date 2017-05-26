@@ -20,6 +20,7 @@ services:
       repo_url: ''
       type: new
       has_issues: true
+      enable_traceability: true
   build:
     service_id: pipeline
     parameters:
