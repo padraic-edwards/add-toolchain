@@ -1,26 +1,26 @@
 ---
-template.name: "Continuous Delivery Toolchain~otc-ui521"
+template.name: "Continuous Delivery Toolchain~otc-ui533"
 template.description: |
   This toolchain includes tools to develop and deploy your app. Depending on your
   app, when you create the toolchain, the Git repository will either be empty
-  or will contain source code from your app.~otc-ui522
+  or will contain source code from your app.~otc-ui534
   This toolchain uses tools that are part of the Continuous Delivery service. If
   an instance of that service isn't already in your organization, when you click
   **Create**, it is automatically added at no cost to you. For more information
   and terms, see the [Bluemix catalog](/catalog/services/continuous-delivery/).
 
   To get started, click **Create**.
-deploy.title: "MicroServices Deploy Stage~otc-ui523"
-deploy.longDescription: "The Delivery Pipeline automates continuous deployment.~otc-ui524"
-deploy.form.description: "Description~otc-ui525"
-headerSVG.issueTracker: "ISSUE TRACKER~otc-ui526"
-headerSVG.gitHub1: "GitHub~otc-ui527"
-headerSVG.think: "THINK~otc-ui528"
-headerSVG.code: "CODE~otc-ui529"
-headerSVG.deliver: "DELIVER~otc-ui530"
-headerSVG.run: "RUN~otc-ui531"
-headerSVG.repository: "REPOSITORY~otc-ui532"
-headerSVG.gitHub2: "GitHub~otc-ui533"
-headerSVG.pipeline: "PIPELINE~otc-ui534"
-headerSVG.bluemix: "BLUEMIX~otc-ui535"
-headerSVG.webIde: "WEB IDE~otc-ui536"
+deploy.title: "MicroServices Deploy Stage~otc-ui535"
+deploy.longDescription: "The Delivery Pipeline automates continuous deployment.~otc-ui536"
+deploy.form.description: "Description~otc-ui537"
+headerSVG.issueTracker: "ISSUE TRACKER~otc-ui538"
+headerSVG.gitHub1: "GitHub~otc-ui539"
+headerSVG.think: "THINK~otc-ui540"
+headerSVG.code: "CODE~otc-ui541"
+headerSVG.deliver: "DELIVER~otc-ui542"
+headerSVG.run: "RUN~otc-ui543"
+headerSVG.repository: "REPOSITORY~otc-ui544"
+headerSVG.gitHub2: "GitHub~otc-ui545"
+headerSVG.pipeline: "PIPELINE~otc-ui546"
+headerSVG.bluemix: "BLUEMIX~otc-ui547"
+headerSVG.webIde: "WEB IDE~otc-ui548"
