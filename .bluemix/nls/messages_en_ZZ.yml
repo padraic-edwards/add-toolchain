@@ -1,7 +1,7 @@
 ---
 template.name: "[G'Ｃｏｎｔｉｎｕｏｕs Delivery Toolchainฏูİı｜]"
-template.description: [G'|
-  Ｔｈｉｓ ｔｏｏｌｃｈａｉｎ ｉｎｃｌｕｄｅｓ ｔｏｏｌｓ ｔｏ ｄｅｖｅｌｏｐ ａｎｄ ｄｅｐｌｏｙ ｙｏｕｒ ａｐｐ. Ｄｅpending on your
+template.description: |
+  [G'Ｔｈｉｓ ｔｏｏｌｃｈａｉｎ ｉｎｃｌｕｄｅｓ ｔｏｏｌｓ ｔｏ ｄｅｖｅｌｏｐ ａｎｄ ｄｅｐｌｏｙ ｙｏｕｒ ａｐｐ. Ｄｅpending on your
   app, when you create the toolchain, the Git repository will either be empty
   or will contain source code from your app.ฏูİı｜]
   This toolchain uses tools that are part of the Continuous Delivery service. If
