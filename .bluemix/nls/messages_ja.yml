@@ -1,10 +1,10 @@
 ---
-template.name: "Continuous Delivery ツールチェーン"
+template.name: "Continuous Delivery ツールチェーン (GitHub Enterprise)"
 template.description: "このツールチェーンには、アプリを開発およびデプロイするためのツールが含まれています。 ユーザーのアプリ次第で、このツールチェーンを作成した時、GitHub リポジトリーは空になるか、ユーザーのアプリのソース・コードを含みます。\n\nこのツールチェーンは、Continuous Delivery サービスに含まれるツールを使用します。そのサービスのインスタンスがお客様の組織にまだない場合、**「作成」**をクリックするとそれが自動的に追加されます。詳細および条件については、[Bluemix カタログ](/catalog/services/continuous-delivery/)を参照してください。\n\n開始するには、**「作成」**をクリックします。"
 deploy.title: "MicroServices のデプロイ・ステージ"
 deploy.longDescription: "Delivery Pipeline は、継続的デプロイメントを自動化します。"
 deploy.form.description: "説明"
-headerSVG.issueTracker: "問題トラッカー"
+headerSVG.issueTracker: "課題トラッカー"
 headerSVG.gitHub1: "GitHub"
 headerSVG.think: "思考"
 headerSVG.code: "コード"
