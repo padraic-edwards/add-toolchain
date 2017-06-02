@@ -1,6 +1,6 @@
 ---
 template.name: "Cadeia de ferramentas do Continuous Delivery"
-template.description: Esta cadeia de ferramentas inclui ferramentas para desenvolver e implementar seu app. Dependendo do seu\napp, ao criar a cadeia de ferramentas, o repositório Git estará vazio\nou conterá o código-fonte do seu app.\nEssa cadeia de ferramentas usa ferramentas que são parte do serviço Entrega contínua. Se\numa instância desse serviço ainda não estiver em sua organização, ao clicar em\n**Criar**, ela será automaticamente incluída sem encargos. Para obter mais informações\ne termos, consulte o [catálogo do Bluemix](/catalog/services/continuous-delivery/).\nPara iniciar, clique em **Criar**.
+template.description: "Esta cadeia de ferramentas inclui ferramentas para desenvolver e implementar seu app. Dependendo do seu app, ao criar a cadeia de ferramentas, o repositório Git estará vazio ou conterá o código-fonte do seu app.\n\nEssa cadeia de ferramentas usa ferramentas que são parte do serviço Entrega contínua. Se uma instância desse serviço ainda não estiver em sua organização, ao clicar em **Criar**, ela será automaticamente incluída sem encargos. Para obter mais informações e termos, consulte o [catálogo do Bluemix](/catalog/services/continuous-delivery/).\n\nPara iniciar, clique em **Criar**."
 deploy.title: "Estágio de Implementação de MicroServices"
 deploy.longDescription: "O Delivery Pipeline automatiza a implementação contínua."
 deploy.form.description: "Descrição"
