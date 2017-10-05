@@ -1,6 +1,6 @@
 ---
 template.name: "Chaîne d'outils Continuous Delivery"
-template.description: "Cette chaîne d'outils inclut des outils permettant de développer et de déployer votre application. En fonction de celle-ci, lorsque vous créez la chaîne d'outils, le référentiel Git est vide ou contient le code source de votre appli.\n\nCette chaîne d'outils utilise des outils qui font partie du service Continuous Delivery. Si aucune instance de ce service n'existe dans votre organisation, elle est automatiquement ajoutée, lorsque vous cliquez sur **Créer**, avec le plan gratuit [Lite](/catalog/services/continuous-delivery/) sélectionné. \n\nPour commencer, cliquez sur **Créer**."
+template.description: "Cette chaîne d'outils inclut des outils permettant de développer et de déployer votre application. En fonction de celle-ci, lorsque vous créez la chaîne d'outils, le référentiel Git est vide ou contient le code source de votre appli.\n\nCette chaîne d'outils utilise des outils qui font partie du service Continuous Delivery. Si aucune instance de ce service n'existe dans l'organisation sélectionnée, elle est automatiquement ajoutée, lorsque vous cliquez sur **Créer**, avec le plan gratuit [Lite](/catalog/services/continuous-delivery/) sélectionné.\n\nPour commencer, cliquez sur **Créer**."
 deploy.title: "Etape de déploiement de microservices"
 deploy.longDescription: "Delivery Pipeline automatise le déploiement en continu."
 deploy.form.description: "Description"
