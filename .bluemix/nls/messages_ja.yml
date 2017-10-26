@@ -4,7 +4,7 @@ template.description: "このツールチェーンには、アプリを開発お
 deploy.title: "MicroServices のデプロイ・ステージ"
 deploy.longDescription: "Delivery Pipeline は、継続的デプロイメントを自動化します。"
 deploy.form.description: "説明"
-headerSVG.issueTracker: "問題トラッカー"
+headerSVG.issueTracker: "Issue トラッカーI"
 headerSVG.gitHub1: "GitHub"
 headerSVG.think: "思考"
 headerSVG.code: "コード"
