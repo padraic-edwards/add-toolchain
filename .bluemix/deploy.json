@@ -13,9 +13,24 @@
     "properties": {
         "pipeline_name": {
             "type": "string"
+        },
+        "api-key": {
+            "description": {
+                "$ref": "#/messages/deploy.apiKeyDescription"
+            },
+            "type": "string"
         }
     },
+    "required": ["api-key"],
     "form": [
+        {
+	        "type": "password",
+	        "readonly": false,
+	        "title": {
+                   "$ref": "#/messages/deploy.apiKeyTitle"
+                },
+	        "key": "api-key"
+        },
         {
             "type": "text",
             "readonly": true,
