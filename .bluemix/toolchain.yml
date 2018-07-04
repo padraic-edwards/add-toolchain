@@ -37,6 +37,7 @@ services:
           CF_SPACE_ID: ''
           CF_ORGANIZATION_ID: ''
           CF_API_URL: ''
+          API_KEY: '{{form.pipeline.parameters.api-key}}'
         execute: false
   webide:
     service_id: orion
