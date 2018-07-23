@@ -23,6 +23,10 @@
     },
     "required": ["api-key"],
     "form": [
+	{
+            "type": "validator",
+            "url": "/devops/setup/bm-helper/helper.html"
+        },
         {
 	        "type": "password",
 	        "readonly": false,
