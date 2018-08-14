@@ -4,6 +4,8 @@ template.description: "此工具链包含用于开发和部署应用程序的工
 deploy.title: "微服务部署暂存区"
 deploy.longDescription: "Delivery Pipeline 自动执行持续部署。"
 deploy.form.description: "描述"
+deploy.apiKeyTitle: "IBM Cloud API 密钥"
+deploy.apiKeyDescription: "访问 IBM Cloud Runtime 需要 API 密钥。如果没有 API 密钥，可以单击“创建”按钮。还可以使用“bx iam api-key-create”或通过控制台 (https://console.bluemix.net/iam/#/apikeys) 来获取 API 密钥"
 headerSVG.issueTracker: "问题跟踪程序"
 headerSVG.gitHub1: "GitHub"
 headerSVG.think: "思考"
