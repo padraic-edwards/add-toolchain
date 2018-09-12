@@ -1,11 +1,11 @@
 ---
 template.name: "Cadeia de ferramentas do Continuous Delivery"
-template.description: "Esta cadeia de ferramentas inclui ferramentas para desenvolver e implementar seu app. Dependendo do seu app, ao criar a cadeia de ferramentas, o repositório Git estará vazio ou conterá o código-fonte do seu app.\n\nEsta cadeia de ferramentas usa ferramentas que são parte do serviço Entrega contínua. Se uma instância desse serviço ainda não estiver na organização selecionada, ela será adicionada automaticamente com o plano [Lite](/catalog/services/continuous-delivery/) grátis selecionado ao clicar em **Criar**.\n\nPara iniciar, clique em **Criar**."
+template.description: "Esta cadeia de ferramentas inclui ferramentas para desenvolver e implementar seu app. Dependendo do seu app, ao criar a cadeia de ferramentas, o repositório Git estará vazio ou conterá o código-fonte do seu app.\n\nEsta cadeia de ferramentas usa ferramentas que são parte do serviço Continuous Delivery. Se uma instância desse serviço ainda não estiver na organização selecionada, ela será adicionada automaticamente com o plano [Lite](/catalog/services/continuous-delivery/) grátis selecionado ao clicar em **Criar**.\n\nPara iniciar, clique em **Criar**."
 deploy.title: "Estágio de Implementação de MicroServices"
 deploy.longDescription: "O Delivery Pipeline automatiza a implementação contínua."
 deploy.form.description: "Descrição"
 deploy.apiKeyTitle: "Chave API do IBM Cloud"
-deploy.apiKeyDescription: "É necessária uma chave API para acessar o IBM Cloud Runtime. Se você não tiver uma, será possível clicar no botão Criar. Também é possível obter uma chave API com 'bx iam api-key-create' ou por meio do console em https://console.bluemix.net/iam/#/apikeys"
+deploy.apiKeyDescription: "É necessária uma chave API para acessar o IBM Cloud Runtime. Se você não tiver uma, é possível clicar no botão Criar. Também é possível obter uma chave API com 'bx iam api-key-create' ou por meio do console em https://console.bluemix.net/iam/#/apikeys"
 headerSVG.issueTracker: "RASTREADOR DE PROBLEMA"
 headerSVG.gitHub1: "GitHub"
 headerSVG.think: "PENSAR"
