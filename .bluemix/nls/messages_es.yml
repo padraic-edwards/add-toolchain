@@ -9,7 +9,7 @@ deploy.apiKeyDescription: "Se necesita una clave de API para acceder a IBM Cloud
 headerSVG.issueTracker: "SEGUIMIENTO DE PROBLEMAS"
 headerSVG.gitHub1: "GitHub"
 headerSVG.think: "CONSIDERAR"
-headerSVG.code: "CÓDIGO"
+headerSVG.code: "CODIFICAR"
 headerSVG.deliver: "ENTREGAR"
 headerSVG.run: "EJECUTAR"
 headerSVG.repository: "REPOSITORIO"
